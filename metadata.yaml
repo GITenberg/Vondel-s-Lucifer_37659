@@ -1,0 +1,44 @@
+_repo: Vondel-s-Lucifer_37659
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Van Noppen, Leonard Charles
+    aliases:
+    - Noppen, Leonard Charles van
+    - Von Noppen, Leonard Charles
+    birthdate: 1868
+    deathdate: 1935
+    gutenberg_agent_id: '38978'
+    url: http://www.gutenberg.org/2009/agents/38978
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vondel, Joost van den
+    aliases:
+    - Van den Vondel, Joost
+    - Vondel, Jost van den
+    - Vondelen, J. V. (Joost van)
+    - Vondelen, Joost van den
+    - Den Vondel, Joost van
+    - Vondel, J. V. (Joost van)
+    birthdate: 1587
+    deathdate: 1679
+    gutenberg_agent_id: '7148'
+    url: http://www.gutenberg.org/2009/agents/7148
+    wikipedia: http://nl.wikipedia.org/wiki/Joost_van_den_Vondel
+description: ''
+gutenberg_issued: '2011-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch drama -- Translations into English'
+title: Vondel's Lucifer
+url: http://www.gutenberg.org/ebooks/37659
